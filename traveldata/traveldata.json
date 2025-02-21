@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "name": "Temple of the Sacred Tooth Relic",
+        "how_to_get_there": "Approximately 1 km from Kandy Railway Station. Travel east via Sri Dalada Veediya.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 150-250",
+            "pickme": "Approximately LKR 150-250"
+        },
+        "entrance_fee": "LKR 1500 (Foreigners), LKR 100 (Locals)",
+        "important_information": "One of the most sacred sites in Sri Lanka, housing a relic of the Buddha. Visitors must dress modestly and remove shoes before entering. Beware of unofficial guides who may overcharge.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "The temple complex includes a museum and other historical structures. The best time to visit is during the daily rituals or the annual Esala Perahera festival."
+    },
+    {
+        "id": 2,
+        "name": "Kandy Lake",
+        "how_to_get_there": "Located in the center of Kandy, right next to the Temple of the Sacred Tooth Relic.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 100-200",
+            "pickme": "Approximately LKR 100-200"
+        },
+        "entrance_fee": "Free",
+        "important_information": "A scenic artificial lake built by King Sri Wickrama Rajasinghe. Beware of scammers offering boat rides at excessive prices. Stick to official services.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "A peaceful place for a walk, especially in the evening. The lake is home to various birds and fish."
+    },
+    {
+        "id": 3,
+        "name": "Bahirawakanda Vihara Buddha Statue",
+        "how_to_get_there": "Approximately 2 km from Kandy Railway Station. Travel via Bahirawakanda Path.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 250-350",
+            "pickme": "Approximately LKR 250-350"
+        },
+        "entrance_fee": "LKR 250",
+        "important_information": "A giant Buddha statue on a hill offering panoramic views of Kandy. The path is steep, so hiring a tuk-tuk or taxi is recommended. Avoid guides who insist on unnecessary services.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "A peaceful temple with a stunning viewpoint, best visited at sunset."
+    },
+    {
+        "id": 4,
+        "name": "Udawattakele Forest Reserve",
+        "how_to_get_there": "Approximately 1.5 km from Kandy Railway Station. Travel northeast via Sangaraja Mawatha.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 200-300",
+            "pickme": "Approximately LKR 200-300"
+        },
+        "entrance_fee": "LKR 600",
+        "important_information": "A protected rainforest reserve with diverse flora and fauna. Stay on marked trails to avoid getting lost. Do not pay unofficial guides who may charge extra.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "A great spot for nature lovers and bird watchers, featuring historical ruins and meditation areas."
+    },
+    {
+        "id": 5,  
+        "name": "Ceylon Tea Museum",
+        "how_to_get_there": "Approximately 4 km from Kandy Railway Station. Travel south via Hanthana Road.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 400-600",
+            "pickme": "Approximately LKR 400-600"
+        },
+        "entrance_fee": "LKR 800",
+        "important_information": "Provides insights into Sri Lanka’s tea industry. Some tea samples and souvenirs may be overpriced; compare prices before purchasing.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "Features old tea-processing equipment, historical exhibits, and a tea-tasting section."
+    },
+    {
+        "id": 6,  
+        "name": "Hanthana Mountain Range",
+        "how_to_get_there": "Approximately 7 km from Kandy Railway Station. Travel south via Hanthana Road.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 700-900",
+            "pickme": "Approximately LKR 700-900"
+        },
+        "entrance_fee": "Free",
+        "important_information": "A popular destination for hiking and nature walks. Trails can be challenging; appropriate footwear is recommended. Be cautious of individuals offering their services for a fee.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "The range offers stunning views of Kandy and its surroundings, with diverse flora and fauna."
+    },
+    {
+        "id": 7,  
+        "name": "Pinnawala Elephant Orphanage",
+        "how_to_get_there": "Approximately 40 km from Kandy Railway Station. Travel northwest via Colombo Road (A1) towards Rambukkana.",
+        "taxi_fee": {
+            "uber": "Approximately LKR 4,000-5,000",
+            "pickme": "Approximately LKR 4,000-5,000"
+        },
+        "entrance_fee": {
+            "foreign_adult": "LKR 3,000",
+            "children": "LKR 1,500"
+        },
+        "important_information": "A sanctuary for orphaned and injured elephants. Visitors can observe feedings and river bathing sessions. Be cautious of individuals offering 'special' interactions or photo opportunities with elephants for an extra fee; these are not officially sanctioned.",
+        "can_be_scammed": "Yes",
+        "more_about_place": "Established in 1975, the orphanage provides care and protection to elephants and offers educational insights into their conservation."
+    },
+    {
+        "id": 8,
+        "name": "Lankatilaka Vihara",
+        "how_to_get_there": "Approximately 15 km from Kandy Railway Station. Travel southwest via Pilimathalawa along the Daulagala Road.",
+        "taxi_fee": {
+        "uber": "Approximately LKR 1,500-2,000",
+        "pickme": "Approximately LKR 1,500-2,000"
+        },
+        "entrance_fee": {
+        "foreign_adult": "LKR 500",
+        "children": "LKR 250"
+        },
+        "important_information": "A 14th-century Buddhist temple showcasing Kandyan and South Indian architectural styles. Known for its well-preserved murals and inscriptions.",
+        "can_be_scammed": "No",
+        "more_about_place": "Lankatilaka Vihara was built by King Bhuvanekabahu IV and is a significant cultural site with a mix of Buddhist and Hindu influences."
+    },
+    {
+        "id": 9,
+        "name": "Gadaladeniya Temple",
+        "how_to_get_there": "Approximately 13 km from Kandy Railway Station. Travel southwest via Pilimathalawa along the Daulagala Road.",
+        "taxi_fee": {
+        "uber": "Approximately LKR 1,500-2,000",
+        "pickme": "Approximately LKR 1,500-2,000"
+        },
+        "entrance_fee": {
+        "foreign_adult": "LKR 500",
+        "children": "LKR 250"
+        },
+        "important_information": "A historic Buddhist temple known for its South Indian architectural influence and ancient stone carvings.",
+        "can_be_scammed": "No",
+        "more_about_place": "Built in 1344 by King Bhuvanekabahu IV, this temple features stunning stone structures and is one of the best-preserved examples of South Indian-style Buddhist architecture in Sri Lanka."
+    },
+    {
+        "id": 10,
+        "name": "National Museum of Kandy",
+        "how_to_get_there": "Located within Kandy city, near the Temple of the Tooth Relic.",
+        "taxi_fee": {
+        "uber": "Approximately LKR 500-1,000",
+        "pickme": "Approximately LKR 500-1,000"
+        },
+        "entrance_fee": {
+        "foreign_adult": "LKR 1,500",
+        "children": "LKR 750"
+        },
+        "important_information": "Displays artifacts from the Kandyan Kingdom, including royal regalia, ancient weapons, and historical documents. The museum is inside a historic building once used as the King's palace.",
+        "can_be_scammed": "No",
+        "more_about_place": "The National Museum of Kandy provides deep insights into the history of the last Sinhalese kingdom, with exhibits dating back to the 17th and 18th centuries."
+    },
+    {
+        "id": 11,
+        "name": "Embekke Devalaya",
+        "how_to_get_there": "Approximately 13 km from Kandy Railway Station. Travel southwest via Pilimathalawa and take Embekke Road.",
+        "taxi_fee": {
+        "uber": "Approximately LKR 1,500-2,000",
+        "pickme": "Approximately LKR 1,500-2,000"
+        },
+        "entrance_fee": {
+        "foreign_adult": "LKR 500",
+        "children": "LKR 250"
+        },
+        "important_information": "Famous for its intricate wooden carvings, considered some of the best in Sri Lanka. A Hindu-Buddhist temple built during the Gampola period.",
+        "can_be_scammed": "No",
+        "more_about_place": "Built by King Vikramabahu III in the 14th century, Embekke Devalaya is a masterpiece of traditional Sri Lankan wood craftsmanship, featuring detailed carvings of dancers, musicians, and mythical creatures."
+    }
+]
+  
